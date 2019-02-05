@@ -25,7 +25,15 @@ screenshot.png
 - HTML turi validuotis be klaidų su: https://validator.w3.org/
 - SCSS panaudojimas
 - Pritaikymas visiems ekramas (media queries).
-
 ### Bonus taškai:
-- JavaScript panaudojimas
+- Paieškos funkcionalumas
+- Schema.org panaudojimas
+- Bootstrap panaudojimas
 
+*Terminas 2019-02-11 10:00.*
+
+# Darbų pridavimas:
+- Wordpress failus ir duomenų bazę suarchyvuokite (.zip) ir atsiųskite per wetransfer.com man (liudas@webby.lt)
+- Statinės svetainės (exchange) failus suarchyvuokite ir taip pat atsiųskite per wetransfer.com man (liudas@webby.lt)
+
+### Noriu pabrėžti: jei nepadarėte visų užduočių - vistiek atsiųskit rezultatą.
