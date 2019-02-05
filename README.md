@@ -30,10 +30,9 @@ screenshot.png
 - Schema.org panaudojimas
 - Bootstrap panaudojimas
 
-*Terminas 2019-02-11 10:00.*
-
 # Darbų pridavimas:
 - Wordpress failus ir duomenų bazę suarchyvuokite (.zip) ir atsiųskite per wetransfer.com man (liudas@webby.lt)
 - Statinės svetainės (exchange) failus suarchyvuokite ir taip pat atsiųskite per wetransfer.com man (liudas@webby.lt)
+- *Terminas 2019-02-11 10:00.*
 
 ### Noriu pabrėžti: jei nepadarėte visų užduočių - vistiek atsiųskit rezultatą.
